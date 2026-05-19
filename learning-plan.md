@@ -7,8 +7,8 @@
 ## Phase 1：AI 基础（预计 2 周）
 
 - [x] [LLM](https://aiweb3.school/zh/handbook/ai/llm/) — 大语言模型（2026-05-18 ✅）
-- [ ] [Prompt](https://aiweb3.school/zh/handbook/ai/prompt/) — 提示词
-- [ ] [Context](https://aiweb3.school/zh/handbook/ai/context/) — 上下文
+- [x] [Prompt](https://aiweb3.school/zh/handbook/ai/prompt/) — 提示词（2026-05-19 ✅）
+- [x] [Context](https://aiweb3.school/zh/handbook/ai/context/) — 上下文（2026-05-19 ✅）
 - [ ] [RAG](https://aiweb3.school/zh/handbook/ai/rag/) — 检索增强生成
 - [ ] [Agent](https://aiweb3.school/zh/handbook/ai/agent/) — 智能体
 - [ ] [Frameworks](https://aiweb3.school/zh/handbook/ai/frameworks/) — 框架
